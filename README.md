@@ -1,4 +1,3 @@
 # HSE BigData course
-Курс по BigData в магистратуре НИУ ВШЭ.
-В курсе рассматриваются технологии Hadoop, PySpark, партицирование, способы хранения данных и их передачи.
-<br>Домашние работы посвящены PySpark и SQL.
+Masters degree HSE BigData course.
+<br>Hadoop, PySpark, SQL, partitions, window functions.
